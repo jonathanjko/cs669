@@ -1,0 +1,27 @@
+Key Features:
+Data Integration: Aggregates and integrates data from multiple sources, including NBA statistics, player metrics, salaries, and injury reports.
+Analytics and Insights: Delivers in-depth player and team performance analysis, game trends, and advanced metric calculations.
+User Personalization: Offers personalized recommendations based on user preferences, historical data insights, and real-time performance indicators.
+Real-Time Updates: Continuously integrates real-time data updates on player and team performance.
+
+Project Structure
+Database Design:
+The platform utilizes a relational database architecture optimized for handling transactional data.
+Entities and Relationships:
+Includes tables for Players, Teams, Games, Injuries, PlayerStats, TeamStats, Contracts, and more.
+Normalization:
+All tables are normalized to 3NF to reduce redundancy and improve data integrity.
+Stored Procedures:
+Created stored procedures for adding new records, updating data, and ensuring data integrity across tables.
+Query Optimization:
+Implemented indexing strategies and optimized SQL queries to enhance performance and reduce query execution times by up to 60%.
+
+Use Cases
+Player Performance Analysis:
+Users can select players and analyze their performance across different games and seasons.
+Team Management:
+Provides tools for team managers to evaluate team performance, manage player injuries, and generate reports for strategic planning.
+Injury Impact Analysis:
+Analyzes the impact of player injuries on individual and team performance, including recovery timelines.
+Game Comparison:
+Allows users to compare the performance of different teams or players in various games, generating insightful reports.
